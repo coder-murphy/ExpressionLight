@@ -1,6 +1,7 @@
 # ExpressionLight
 轻量级自定义表达式解析器
 
+```CSharp
 public sealed class SimpleExpression
 {
     /// <summary>
@@ -483,3 +484,4 @@ public static class Extensions
         return string.Concat(buffer);
     }
 }
+```
