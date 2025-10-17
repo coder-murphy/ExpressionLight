@@ -1,5 +1,6 @@
 # ExpressionLight
 轻量级自定义表达式解析器
+tips：有bug 实验产物
 
 ```CSharp
 public sealed class SimpleExpression
